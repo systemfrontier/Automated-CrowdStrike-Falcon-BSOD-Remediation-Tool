@@ -8,4 +8,4 @@ Remediation steps performed are based on guidance from here: https://www.crowdst
 * Note that this method won't work if BitLocker prevents automatic boot into Windows.
 
 ## Usage example
-.\Remediate-CrowdStrikeFalconBSOD.ps1 -ComputerName labdbs01
+`.\Remediate-CrowdStrikeFalconBSOD.ps1 -ComputerName labdbs01`

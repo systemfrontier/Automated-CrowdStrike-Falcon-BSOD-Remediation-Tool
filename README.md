@@ -1,1 +1,1 @@
-# Automated-CrowdStrike-Falcon-BSOD-Remediation-Tool
+# Automated CrowdStrike Falcon BSOD Remediation Tool

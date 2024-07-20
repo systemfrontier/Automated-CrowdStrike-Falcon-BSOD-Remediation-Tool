@@ -18,7 +18,7 @@ param(
 	.\Remediate-CrowdStrikeFalconBSOD.ps1 -ComputerName labdbs01
 
 	.LINK
-	https://github.com/systemfrontier/Invoke-Sqlcmd2
+	https://github.com/systemfrontier/Automated-CrowdStrike-Falcon-BSOD-Remediation-Tool/
 
 	
 	.NOTES
